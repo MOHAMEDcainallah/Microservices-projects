@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="auth">
+          <authState>
+            <option name="type" value="API_KEY" />
+          </authState>
+        </option>
+      </draftsState>
+    </option>
+    <option name="environmentGroups">
+      <list>
+        <environmentGroupState>
+          <option name="id" value="microservices" />
+          <option name="name" value="Microservices" />
+        </environmentGroupState>
+      </list>
+    </option>
+    <option name="id" value="b5b61f11-cee1-4cc0-aadf-90dfa6db2d6a" />
+  </component>
+</project>
